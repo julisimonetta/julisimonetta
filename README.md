@@ -3,7 +3,7 @@
 * Full Stack MERN developer
 * I'm based in Córdoba, Argentina 🌍  .
 * ✉️  You can contact me at:
-* * Email: [julisimonetta2410@gmail.com](mailto:julisimonetta2410@gmail.com)
+* * Email: jsimonetta14@outlook.com
 * * WhatsApp: https://ultramsg.com/m/39clS8I
 * * Linkedin: www.linkedin.com/in/juliana-simonetta
 -------------------------
